@@ -1,8 +1,8 @@
-import os
+# import os
 import logging
 import random
 from chatterbot import ChatBot
-from chatterbot.trainers import ListTrainer
+# from chatterbot.trainers import ListTrainer
 from chatterbot.response_selection import get_first_response
 
 logging.basicConfig(level=logging.ERROR)
@@ -18,18 +18,18 @@ chatbot = ChatBot(
     logic_adapters = [
         {
             'import_path': 'chatterbot.logic.BestMatch',
-            'default_response': 'I am sorry, but I do not understand.',
+            'default_response': 'I am sorry, but I do not understand. For more information contact: support@mentormate.com',
             'maximum_similarity_threshold': 0.9
         }
     ],
     response_selection_method = get_first_response
 )
 
-trainer = ListTrainer(chatbot)
-
-for file in os.listdir(os.getcwd() + '/MentorMateData'):
-    chats = open(os.getcwd() + '/MentorMateData/' + file, 'r').readlines()
-    trainer.train(chats)
+# trainer = ListTrainer(chatbot)
+#
+# for file in os.listdir(os.getcwd() + '/MentorMateData'):
+#     chats = open(os.getcwd() + '/MentorMateData/' + file, 'r').readlines()
+#     trainer.train(chats)
 
 GREETING_INPUTS = ("hello", "hi", "greetings", "what's up", "hey")
 GREETING_RESPONSES = ["Hi, nice to meet you.", "hey", "hi there", "hello", "I am glad! You are talking to me"]
