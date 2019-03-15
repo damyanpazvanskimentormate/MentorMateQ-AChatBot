@@ -1,0 +1,122 @@
+categories:
+- internal-systems
+conversations:
+- - Internal systems
+  - You can find links to all of Mentor Mate internal systems here - https://mentormate.atlassian.net/wiki/spaces/MMBG/pages/120658790/Internal+Systems
+- - MentorNet
+  - You can find MentorNet here - https://mentornet.devsmm.com/ui/#!/login
+- - OpenAir
+  - You can find OpenAir here - https://www.openair.com/index.pl
+- - How to use OpenAir
+  - You can find guidelines how to use OpenAir here - https://mentormate.atlassian.net/wiki/spaces/MMBG/pages/9338977/OpenAir
+- - Chronomate
+  - Please take a look at this page - https://mentormate.atlassian.net/wiki/spaces/MMBG/pages/63832093/Chronomate
+- - ExcluCV
+  - You can find more information here - https://mentormate.atlassian.net/wiki/spaces/MMBG/pages/118100993/ExcluCV
+- - OpenAir information
+  - You can find information about OpenAir here - https://mentormate.atlassian.net/wiki/spaces/MMBG/pages/9338977/OpenAir
+- - How to create timesheet ?
+  - Please visit this page -https://mentormate.atlassian.net/wiki/spaces/MMBG/pages/9338977/OpenAir#OpenAir-%D0%A1%D1%8A%D0%B7%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%B5%D0%BD%D0%B0timesheets
+- - How to log my working time?
+  - Take a look at this page, you will find details here - https://mentormate.atlassian.net/wiki/spaces/MMBG/pages/9338977/OpenAir#OpenAir-%D0%9B%D0%BE%D0%B3%D0%B2%D0%B0%D0%BD%D0%B5%D0%BD%D0%B0%D0%B2%D1%80%D0%B5%D0%BC%D0%B5
+- - Overlaping timesheets
+  - You can dinf more information about timesheets overlaping here - https://mentormate.atlassian.net/wiki/spaces/MMBG/pages/9338977/OpenAir#OpenAir-%D0%97%D0%B0%D1%81%D1%82%D1%8A%D0%BF%D0%B2%D0%B0%D0%BD%D0%B5%D0%BD%D0%B0timesheets
+- - Submit timessheet
+  - You can find more information about timesheet submitting here - https://meet.google.com/uea-gdwp-cue
+- - Delete timesheet
+  - You can find more information, about how to delete the timesheet here - https://mentormate.atlassian.net/wiki/spaces/MMBG/pages/9338977/OpenAir#OpenAir-%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%B0%D0%BD%D0%B5,reject-%D0%B2%D0%B0%D0%BD%D0%B5,%D0%B8%D0%B7%D1%82%D1%80%D0%B8%D0%B2%D0%B0%D0%BD%D0%B5%D0%BD%D0%B0timesheets.
+- - How can i delete time sheet ?
+  - You can find more information, about how to delete the timesheet here - https://mentormate.atlassian.net/wiki/spaces/MMBG/pages/9338977/OpenAir#OpenAir-%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%B0%D0%BD%D0%B5,reject-%D0%B2%D0%B0%D0%BD%D0%B5,%D0%B8%D0%B7%D1%82%D1%80%D0%B8%D0%B2%D0%B0%D0%BD%D0%B5%D0%BD%D0%B0timesheets.
+- - Holiday
+  - You can find information about how you are suppose to log the holidays here - https://mentormate.atlassian.net/wiki/spaces/MMBG/pages/9338977/OpenAir#OpenAir-%D0%9B%D0%BE%D0%B3%D0%B2%D0%B0%D0%BD%D0%B5%D0%BD%D0%B0%D0%BF%D0%BE%D1%87%D0%B8%D0%B2%D0%BD%D0%B8%D0%B4%D0%BD%D0%B8,%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA%D0%B8%D0%B8%D0%B1%D0%BE%D0%BB%D0%BD%D0%B8%D1%87%D0%BD%D0%B8
+- - I need new hard disk.
+  - You can request new hardware from here - https://sas.devsmm.com/tickets/create
+- - Where i can find Wiki Mate articles?
+  - You can find them here - https://sas.devsmm.com/wiki/posts
+- - What Git-repository do we use ?
+  - We use GitLab,
+- - I need a device to test
+  - Please go ahead and visit - http://devices.devsmm.com/#/search/devices
+- - DeviceMate
+  - This is our system for managing company devices, you can find more here - http://devices.devsmm.com/#/search/devices
+- - What do we user to track the software process ?
+  - We use Jira, you can find the link here - https://mentormate.atlassian.net/projects
+- - What system for build and deploy do we use ?
+  - We use Jenkins.
+- - What system do you use when you estimate stories ?
+  - We use our PlanningMate system, you can find it here - http://planningmate.devsmm.com/
+- - PlanningMate
+  - PlanningMate is a powerful tool, to make faster and more accurate estimations and most important of all, to make it fun!
+- - Give kudos
+  - You can give kudos anytime to anyone here - https://mentornet.devsmm.com/ui/#!/main
+- - MentorMate laderboards
+  - You can see the laderboard here - https://mentornet.devsmm.com/ui/#!/leaderboard/overview
+- - MentorMate Store
+  - You can chose your reward from here - https://mentornet.devsmm.com/ui/#!/store
+- - MentorMate Crystals
+  - You can use your crystals, to buy your rewards from here -  https://mentornet.devsmm.com/ui/#!/store
+- - MentorMate trainings
+  - You can see the trainings here - https://script.google.com/a/mentormate.com/macros/s/AKfycbzn2GF_EnM9AKxER__XWHSACYo0cuTnzqBKbETxp7DpwDXvXeE/exec
+- - Land of MentorMate
+  - You can find more information here - https://mentormate.atlassian.net/wiki/spaces/MMBG/pages/48660513/The+Land+of+MentorMate+-+Ground+Rules
+- - How can i earn crystals?
+  - Please visit https://mentormate.atlassian.net/wiki/spaces/MMBG/pages/48660513/The+Land+of+MentorMate+-+Ground+Rules
+- - What is MentorMate Store?
+  - You can find more here - https://mentormate.atlassian.net/wiki/spaces/MMBG/pages/117317423/The+Land+of+MentorMate+Store
+- - I have problem with my computer
+  - Please visit https://sas.devsmm.com/ and create a new ticket.
+- - I need new monitor
+  - Please visit https://sas.devsmm.com/ and create a new ticket.
+- - I need second monitor
+  - Please visit https://sas.devsmm.com/ and create a new ticket.
+- - I need new keyboard
+  - Please visit https://sas.devsmm.com/ and create a new ticket.
+- - I need new mouse
+  - Please visit https://sas.devsmm.com/ and create a new ticket.
+- - I need new mice
+  - Please visit https://sas.devsmm.com/ and create a new ticket.
+- - I need new hard drive
+  - Please visit https://sas.devsmm.com/ and create a new ticket.
+- - I need new hard disk
+  - Please visit https://sas.devsmm.com/ and create a new ticket.
+- - I need monitor stand
+  - Please visit https://sas.devsmm.com/ and create a new ticket.
+- - I need more RAM
+  - Please visit https://sas.devsmm.com/ and create a new ticket.
+- - How can I create work from home request
+  - Please visit - https://chronomate.mentormate.com/wfh/request and create your request
+- - WFH
+  - Please visit - https://chronomate.mentormate.com/wfh/request and create your request
+- - How many PTO days i have left ?
+  - Please visit - https://chronomate.mentormate.com/request/index
+- - Travel request?
+  - Please visit - https://chronomate.mentormate.com/travel/
+- - Work from another office request
+  - Please visit https://chronomate.mentormate.com/travel/visit and create your request
+- - Official holidays for this year
+  - Please visit - https://chronomate.mentormate.com/holiday/index
+- - This year holidays
+  - Please visit - https://chronomate.mentormate.com/holiday/index
+- - Cancel PTO request
+  - Please visit https://chronomate.mentormate.com/questions , you can find useful information there.
+- - Cancel WFAO request
+  - Please visit https://chronomate.mentormate.com/questions , you can find useful information there.
+- - Cancel PTO request
+  - Please visit https://chronomate.mentormate.com/questions , you can find useful information there.
+- - Cancel WFH request
+  - Please visit https://chronomate.mentormate.com/questions , you can find useful information there.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
